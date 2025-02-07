@@ -9,9 +9,6 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 *   🚀  I'm currently working on [Personal Project](http://github.com/V1337Q/karat)
 *   ☛  I've created a repository for you to start learning rust.
   By providing an example for each concept. (It's currently only available in Bahasa Indonesia, but I'll make sure to provide you with the en version once i covered all of the concept/subjects.)
-* Worked at an Insurance Startup as a Junior Software Engineer. (2021)
-* Worked at a Web 3.0-focused Startup as a Comunity Strengthener. (2022)
-* Worked at a Crypto Startup as a Marketing Strategist. (2022-2023)
 
 
 
