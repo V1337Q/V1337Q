@@ -21,6 +21,8 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 <!--![Alt text](./3D_contri2.png)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1337Q&size_weight=0.5&count_weight=0.5)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=V1337Q&style=flat-square&abbreviated=true"
