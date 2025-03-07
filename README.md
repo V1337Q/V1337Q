@@ -1,3 +1,4 @@
+<!--
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kai
 
 <!--
@@ -37,7 +38,7 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
     alt="V1337Q"
   />
 </p>
--->
+
 
 ### Language stats
 
@@ -47,7 +48,15 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 - Assembly     ███████ 7.0%
 - Lua          ███ 3.0%
 - Other        █ 0.0%
+-->
 
-
+| Language    | Bar                                      | Percentage |
+|-------------|------------------------------------------|------------|
+| Rust        | ████████████████████████████████████████ | 45.0%      |
+| Vim Script  | ████████████████████████                | 30.0%      |
+| CSS         | ████████████                             | 15.0%      |
+| Assembly    | ███████                                  | 7.0%       |
+| Lua         | ███                                      | 3.0%       |
+| Other       | █                                        | 0.0%       |
 
 
