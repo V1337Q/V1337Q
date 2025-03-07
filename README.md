@@ -28,6 +28,7 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1337Q&size_weight=0.5&count_weight=0.5)
 -->
 
+<!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="right">
@@ -36,6 +37,15 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
     alt="V1337Q"
   />
 </p>
+-->
+
+Rust         ████████████████████████████████████████ 45.0%
+Vim Script   ████████████████████████ 30.0%
+CSS          ████████████ 15.0%
+Assembly     ███████ 7.0%
+Lua          ███ 3.0%
+Other        █ 0.0%
+
 
 
 
