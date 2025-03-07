@@ -60,11 +60,12 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 | Other       | █                                        | 0.0%       |
 
 -->
+```
 - Rust        ████████████████████████████████████████ 45.0%
 - Vim Script  ████████████████████████                 30.0%
 - CSS         ████████████                             15.0%
 - Assembly    ███████                                  7.0%
 - Lua         ███                                      3.0%
 - Other       █                                        0.0%
-
+```
 
