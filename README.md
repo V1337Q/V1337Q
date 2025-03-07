@@ -39,6 +39,8 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 </p>
 -->
 
+### Language stats
+
 - Rust         ████████████████████████████████████████ 45.0%
 - Vim Script   ████████████████████████ 30.0%
 - CSS          ████████████ 15.0%
