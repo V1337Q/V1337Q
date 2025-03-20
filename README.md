@@ -68,4 +68,8 @@ Assembly          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  
 Lua               ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀        3.0%
 Other             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀        0.0%
 ``` 
+This profile contains:
+- A whole bunch of unfinished projects.
+- GitHub contribution filled with CI/CDs and very important docs commits.
+🦀🦀🦀
 
