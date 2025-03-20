@@ -71,5 +71,6 @@ Other             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  
 This profile contains:
 - A whole bunch of unfinished projects.
 - GitHub contribution filled with CI/CDs and very important docs commits.
-🦀🦀🦀
+- 🦀🦀🦀
+- Config files that nobody cares about.
 
